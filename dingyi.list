@@ -7,5 +7,5 @@
 ##- DST-PORT,80,DIRECT 匹配数据目标端口(直连)
 ##- SRC-PORT,7777,DIRECT 匹配数据源端口(直连)
 ##在线IP段转CIDR地址：http://ip2cidr.com
-DOMAIN-SUFFIX,dianshihome.com,DIRECT
-DOMAIN-SUFFIX,volceapplog.com,DIRECT
+DOMAIN-SUFFIX,dianshihome.com
+DOMAIN-SUFFIX,volceapplog.com
