@@ -9,7 +9,7 @@
 ##在线IP段转CIDR地址：http://ip2cidr.com
 DOMAIN-SUFFIX,dianshihome.com
 DOMAIN-SUFFIX,volceapplog.com
-DOMAIN-SUFFIX,hlwds.jx.chinamobile.com:3000
-DOMAIN-SUFFIX,zxrr.jx.chinamobile.com:8080
-DOMAIN-SUFFIX,jiangxi.devmasys.com:8888
+SRC-IP-CIDR,192.168.31.176/32,DIRECT
+
+
 
