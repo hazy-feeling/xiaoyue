@@ -7,9 +7,10 @@
 ##- DST-PORT,80,DIRECT 匹配数据目标端口(直连)
 ##- SRC-PORT,7777,DIRECT 匹配数据源端口(直连)
 ##在线IP段转CIDR地址：http://ip2cidr.com
-- DOMAIN-SUFFIX,dianshihome.com
-- DOMAIN-SUFFIX,volceapplog.com
-- SRC-IP-CIDR,192.168.31.176/32,DIRECT
+DOMAIN-SUFFIX,dianshihome.com
+DOMAIN-SUFFIX,volceapplog.com
+DOMAIN-SUFFIX,local-msg.ptqy.gitv.tv:80
+SRC-IP-CIDR,192.168.31.176/32,DIRECT
 
 
 
